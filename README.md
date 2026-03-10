@@ -1,2 +1,2 @@
-# FUTUR-INTERNS
+# FUTURE-INTERNS
 This is My Portfolio
